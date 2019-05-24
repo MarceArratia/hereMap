@@ -152,6 +152,7 @@ function hideLogin(){
   function showPage(){
     document.getElementById("loggin").style.display="none";
     document.getElementById("sesion").style.display="block";
+      document.getElementById("nav").style.display="inline";
     showMarker();
   }
   function showMarker(){
