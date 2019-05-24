@@ -110,6 +110,10 @@ h3{
     width: 70px;
 }
 
+.nav-item {
+    display: inline-block
+}
+
 /* sección activar ubicación */
 #activarUbicacion{
     position: relative;
